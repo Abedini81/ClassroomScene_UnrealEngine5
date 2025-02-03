@@ -26,3 +26,6 @@ This project is a realistic classroom scene created using **Blender**, **Adobe S
 ![Classroom Scene](screenshots/7.png)
 ![Classroom Scene](screenshots/8.png)
 ![Classroom Scene](screenshots/9.png)
+
+🔗 Full project source files (unreal file) available here: https://drive.google.com/file/d/1srD6hBi4mD-LZedei-EGukk1mpAoBi2S/view
+
