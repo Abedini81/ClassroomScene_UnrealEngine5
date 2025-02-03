@@ -18,4 +18,11 @@ This project is a realistic classroom scene created using **Blender**, **Adobe S
 - **Unreal Engine 5** – Scene Assembly & Rendering  
 
 ## Screenshots  
-_Add screenshots or renders of your classroom scene here._  
+![Classroom Scene](2.png)
+![Classroom Scene](3.png)
+![Classroom Scene](4.png)
+![Classroom Scene](5.png)
+![Classroom Scene](6.png)
+![Classroom Scene](7.png)
+![Classroom Scene](8.png)
+![Classroom Scene](9.png)
